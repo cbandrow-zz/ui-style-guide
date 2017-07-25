@@ -125,9 +125,8 @@ span{
   margin: 20px;
   width: 100%;
   background: #F2F2F2;
-  border: 1px solid #D1D2D3; }
+  border: 1px solid #D1D2D3; 
 }
-
 
 .cards-container{
   display: flex;
